@@ -1,6 +1,7 @@
 # Özel Dosya İndirme Scripti
 Ücretsiz php özel dosya yükleme scripti.
 Kendi sunucunuza anlık olarak özel dosyalarınızı yükleyip barındırmak istiyorsanız, pure php ile yapılmış dosya indirme scripti. Ücretsizdir dilediğiniz gibi kullanabilirsiniz.
+"Not: Scripti yapmamın amacı 2013 üniversiteye başladığım zamanlar okuldaki ödevleri dökümanları kısa bir süre içinde kendi siteme yükleme için uygun zamanlarımda kodlamıştım. Şuanda bile kullanıyorum tabi dağınık bir yapı mevcut karışık çalışanlar için php başlangıç seviyesine giriş yapanlarında işine yarayabilecek düzeyde yapılmış sade basit dosya depolama scripti"
 
 # Kurulum
 Veritabanımızı oluşturduğumuz varsayalım.
