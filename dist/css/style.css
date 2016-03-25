@@ -1,0 +1,40 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.breadcrumb {
+  border-radius: 0 !important;
+}
+
+.site-harita  {
+  margin-bottom: 5px
+}
+
+.panel-baslik {
+  margin-top: 0;
+  margin-bottom: 0
+}
+
+.sayfalama { margin: 0 }
+
+.menu-listele, .liste-tur, .liste-tur-2 { margin: -4px }
+.liste-tur {
+ margin-left: 10px
+}
+.liste-tur-2 {
+  margin-right: 20px !important
+}
+.acilir-menu  > li > a { padding: 6px 12px }
+
+#progressbar1  { margin-top: 10px }
+
+.galeri-img-list img {height: 200px!important; max-width: 100%!important; overflow: hidden;}
+.galeri-img-list .caption { height: 35px;
+    overflow: hidden;
+    white-space: nowrap; 
+    text-overflow: ellipsis; ;}
