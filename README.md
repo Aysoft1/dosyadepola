@@ -21,5 +21,14 @@ define("site_url", "http://dosyadepo.astald.com"); // ÖRNEK ADRESTİR
 
 gerekli ayarları yaptıktan sonra kurulumunu yaptığımız adrese bağlanıp scriptimizi kullanmaya başlayabiliriz. :)
 
+# Önizleme
+![DosyaDepola](http://indir.astald.com/dosyalar/login_db_56f66cb4372c7.png)
+![DosyaDepola](http://indir.astald.com/dosyalar/screenshot_1_db_56f66cb43e262.png)
+![DosyaDepola](http://indir.astald.com/dosyalar/screenshot_2_db_56f66cb4442c6.png)
+![DosyaDepola](http://indir.astald.com/dosyalar/screenshot_3_db_56f66cb449080.png)
+![DosyaDepola](http://indir.astald.com/dosyalar/screenshot_4_db_56f66cb44e9d3.png)
+![DosyaDepola](http://indir.astald.com/dosyalar/screenshot_5_db_56f66cb458747.png)
+![DosyaDepola](http://indir.astald.com/dosyalar/screenshot_6_db_56f66cb45f659.png)
+
 # Bilgi
 www.astald.com
