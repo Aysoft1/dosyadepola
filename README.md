@@ -28,7 +28,7 @@ gerekli ayarları yaptıktan sonra kurulumunu yaptığımız adrese bağlanıp s
 ![DosyaDepola](http://indir.astald.com/dosyalar/screenshot_3_db_56f66cb449080.png)
 ![DosyaDepola](http://indir.astald.com/dosyalar/screenshot_4_db_56f66cb44e9d3.png)
 ![DosyaDepola](http://indir.astald.com/dosyalar/screenshot_5_db_56f66cb458747.png)
-![DosyaDepola](http://indir.astald.com/dosyalar/screenshot_6_db_56f66cb45f659.png)
+![DosyaDepola](http://indir.astald.com/dosyalar/screenshot_7_db_56f66da6ccc03.png)
 
 # Bilgi
 www.astald.com
