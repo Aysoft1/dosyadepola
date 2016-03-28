@@ -4,6 +4,7 @@ Kendi sunucunuza anlık olarak özel dosyalarınızı yükleyip barındırmak is
 "Not: Scripti yapmamın amacı 2013 üniversiteye başladığım zamanlar okuldaki ödevleri dökümanları kısa bir süre içinde kendi siteme yükleme için uygun zamanlarımda kodlamıştım. Şuanda bile kullanıyorum tabi dağınık bir yapı mevcut karışık çalışanlar için php başlangıç seviyesine giriş yapanlarında işine yarayabilecek düzeyde yapılmış sade basit dosya depolama scripti"
 
 # Kurulum
+## NOT: "dosyalar"  adında ana dizinde bir klasör oluşturup dosya izinlerini (chmod) 0777 yaptıktan hemen sonra  kuruluma başlayınız.
 Veritabanımızı oluşturduğumuz varsayalım.
 **VERITABANI - SQL.sql** dosyasını oluşturmuş olduğumuz veritabanın içine aktarıyoruz.
 
