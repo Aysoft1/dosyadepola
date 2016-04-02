@@ -47,7 +47,9 @@ INSERT INTO db_uyeler (id, durum, kullanici, parola, e_posta, ad_soyad, giris_ta
 
 ALTER TABLE db_uyeler
  ADD PRIMARY KEY (id);
-
+ 
+ALTER TABLE db_dosyalar
+ ADD PRIMARY KEY (id);
 
 ALTER TABLE db_uyeler
 MODIFY id int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=2;
