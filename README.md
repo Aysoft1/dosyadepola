@@ -21,6 +21,11 @@ define("site_url", "http://dosyadepo.astald.com"); // ÖRNEK ADRESTİR
 ```
 
 gerekli ayarları yaptıktan sonra kurulumunu yaptığımız adrese bağlanıp scriptimizi kullanmaya başlayabiliriz. :)
+
+### Giriş Bilgileri
+Kullanıcı Adı: demo
+Şifre: demo
+
 ## CANLI DEMO
 Canlı demoyu görmek için blog adresimin yorum kısmından email adresinizi yazarsanız sizlere gönderebilirim. 
 http://blog.astald.com/ozel-dosya-indirme-scripti/
